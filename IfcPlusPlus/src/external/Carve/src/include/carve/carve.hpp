@@ -34,7 +34,7 @@
 #include <carve/config.h>
 #endif
 
-#if defined(WIN32)
+#if defined(_WIN32)
 #include <carve/win32.h>
 #endif
 
